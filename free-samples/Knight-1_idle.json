@@ -1,0 +1,156 @@
+{ "frames": {
+   "Knight-1_idle 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 1.aseprite": {
+    "frame": { "x": 80, "y": 0, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 2.aseprite": {
+    "frame": { "x": 160, "y": 0, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 3.aseprite": {
+    "frame": { "x": 240, "y": 0, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 4.aseprite": {
+    "frame": { "x": 0, "y": 72, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 5.aseprite": {
+    "frame": { "x": 80, "y": 72, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 6.aseprite": {
+    "frame": { "x": 160, "y": 72, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 7.aseprite": {
+    "frame": { "x": 240, "y": 72, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 8.aseprite": {
+    "frame": { "x": 0, "y": 144, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 9.aseprite": {
+    "frame": { "x": 80, "y": 144, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 10.aseprite": {
+    "frame": { "x": 160, "y": 144, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 11.aseprite": {
+    "frame": { "x": 240, "y": 144, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 12.aseprite": {
+    "frame": { "x": 0, "y": 216, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 13.aseprite": {
+    "frame": { "x": 80, "y": 216, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 14.aseprite": {
+    "frame": { "x": 160, "y": 216, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   },
+   "Knight-1_idle 15.aseprite": {
+    "frame": { "x": 240, "y": 216, "w": 80, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 72 },
+    "sourceSize": { "w": 80, "h": 72 },
+    "duration": 150
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "image": "Knight-1_idle.png",
+  "format": "RGBA8888",
+  "size": { "w": 320, "h": 288 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "down", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "left", "from": 4, "to": 7, "direction": "forward" },
+   { "name": "right", "from": 8, "to": 11, "direction": "forward" },
+   { "name": "up", "from": 12, "to": 15, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "sombra", "opacity": 255, "blendMode": "normal" },
+   { "name": "base", "opacity": 255, "blendMode": "normal" },
+   { "name": "boots", "opacity": 255, "blendMode": "normal" },
+   { "name": "pants", "opacity": 255, "blendMode": "normal" },
+   { "name": "armor", "opacity": 255, "blendMode": "normal" },
+   { "name": "gloves", "opacity": 255, "blendMode": "normal" },
+   { "name": "helm", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
