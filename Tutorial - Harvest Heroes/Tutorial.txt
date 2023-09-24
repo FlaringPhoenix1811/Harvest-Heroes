@@ -1,4 +1,0 @@
-Initial Tutorial for Harvest Heroes -
-To be implemented functions
-1) Functionalities(Pick Drop Sow Harvest)
-2) Dialogue Box
